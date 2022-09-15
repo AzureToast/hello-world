@@ -1,7 +1,7 @@
 # hello-world
 Test github repo for CS-HU 250
 
-#Welcome to my hello-world repository
+# Welcome to my hello-world repository
 
 This isn't my first rodeo with GitHub so I would say I am pretty familiar with how things go. But that being said, there's still a lot of stuff I have yet to learn with Git and GitHub so I am always open to learn new things.
 
